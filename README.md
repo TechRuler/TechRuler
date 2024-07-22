@@ -1,6 +1,6 @@
 # Hi, I'm TechRuler! 👋
 
-Welcome to my GitHub profile! I'm a passionate beginner Python developer, aspiring to become a great programmer and achieve my goal of getting selected into an IIT.
+Welcome to my GitHub profile! I'm a passionate beginner Python developer, aspiring to become a great programmer.
 
 ## 🌟 About Me
 
