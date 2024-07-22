@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate beginner Python developer, aspiri
 - 🧑‍💻 I love coding and am currently diving into Python. 
 - 📚 In my free time, I enjoy reading stories.
 - 🚀 I'm working on improving my programming skills with a focus on Tkinter and creating various projects.
-- 🎯 My goal is to excel in coding and prepare thoroughly for the JEE exams.
+- 🎯 My goal is to excel in coding.
 
 ## 🔧 Technologies & Tools
 
