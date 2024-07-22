@@ -30,7 +30,7 @@ A feature-rich Python code editor built with Tkinter. Key features include:
 
 - Improving the My-Editor project with additional features.
 - Exploring more about Tkinter and GUI development.
-- Preparing for JEE with a structured study plan.
+
 
 
 Feel free to explore my repositories and connect with me. I'm always open to new opportunities and collaborations!
