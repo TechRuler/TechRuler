@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate beginner Python developer, aspiri
 
 ## 📚 Projects
 
-### [My-Editor](https://github.com/TechRuler/My-Editor)
+### [AchievableScript](https://github.com/TechRuler/My-Editor)
 
 A feature-rich Python code editor built with Tkinter. Key features include:
 - **Integrated Python Terminal**: Run Python code directly within the editor.
