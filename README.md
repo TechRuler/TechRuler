@@ -28,7 +28,7 @@ A feature-rich Python code editor built with Tkinter. Key features include:
 
 ## 📈 Currently Working On
 
-- Improving the My-Editor project with additional features.
+- Improving the AchievableScript project with additional features.
 - Exploring more about Tkinter and GUI development.
 
 
