@@ -29,11 +29,11 @@ A versatile Python library for loading and managing configuration files.
 - Schema validation and automatic nested key creation.
 
 ### [TkEditor](https://github.com/TechRuler/tkeditor)
-A QScintilla-like code editor built entirely with Tkinter.  
+A code editor widget built entirely with Tkinter.  
 **Highlights:**
 - Syntax highlighting for multiple languages.
-- Auto-indentation and bracket matching.
-- Tab management and line numbers.
+- Auto-indentation.
+- line numbers.
 - Fully customizable styling.
 
 ### [Chess Game](https://github.com/TechRuler/chess)
