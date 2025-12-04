@@ -11,9 +11,11 @@ Welcome to my GitHub profile! I'm a passionate Python developer, eager to learn 
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages**: Python 🐍
-- **Libraries & Frameworks**: Tkinter
-- **Tools & IDEs**: VS Code, Git, GitHub
+![Python](https://img.shields.io/badge/Python-3.13+-blue?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange?logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?logo=github&logoColor=white)
+
 
 ## 📚 Projects
 
@@ -52,7 +54,7 @@ A feature-rich Python IDE built with Tkinter.
 
 ## 📈 Currently Working On
 
-- Enhancing **TkEditor** and **AchievableScript** with more advanced editor features.
+- Enhancing **TkEditor** and **loadstructure** with more advanced editor features.
 - Adding AI-based suggestions and smarter autocomplete.
 - Learning more about Python, Tkinter, and GUI/IDE development.
 
